@@ -22,21 +22,22 @@ Include:
 * [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](https://arxiv.org/abs/2309.09524) <br/>
 * [**AAAI**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 2] Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning[[paper]](https://arxiv.org/abs/2312.08865)  <br/>
 * [**ACM**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] Text-Only Training for Visual Storytelling[[paper]](https://arxiv.org/abs/2308.08881)  <br/>
+* [**ACM**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] VLIS: Unimodal Language Models Guide Multimodal Language Generation[[paper]](https://arxiv.org/abs/2310.09767)  [[code]](https://github.com/jiwanchung/vlis)[⭐24] <br/>
 
-* [**NeurlPS**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] LOVM:Language-Only Vision Model Selection[[paper]](https://arxiv.org/abs/2306.08893)  [[code]](https://github.com/orrzohar/LOVM)[⭐8]<br/>
-* [**IJCAI**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping[[paper]](https://www.semanticscholar.org/paper/f7d9e553398afe0d363130e1872778761de8e917)  [[code]](https://github.com/junyangwang0410/Knight)[⭐8]<br/>
-* [**ICLR**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training[[paper]](https://arxiv.org/abs/2303.03032)  [[code]](https://github.com/dhg-wei/DeCap)[⭐8]<br/>
-* [**DCASE**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] Weakly-supervised Automated Audio Captioning via text only training[[paper]](https://arxiv.org/abs/2309.12242)  [[code]](https://github.com/zelaki/wsac)[⭐8]<br/>
-* [**ACM**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] CgT-GAN: CLIP-guided Text GAN for Image Captioning[[paper]](https://arxiv.org/abs/2308.12045)  [[code]](https://github.com/Lihr747/CgtGAN)[⭐8]<br/>
+* [**NeurlPS**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 7] LOVM:Language-Only Vision Model Selection[[paper]](https://arxiv.org/abs/2306.08893)  [[code]](https://github.com/orrzohar/LOVM)[⭐18]<br/>
+* [**IJCAI**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 4] From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping[[paper]](https://arxiv.org/abs/2304.13273)  [[code]](https://github.com/junyangwang0410/Knight)[⭐11]<br/>
+* [**ICLR**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 47] Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training[[paper]](https://arxiv.org/abs/2303.03032)  [[code]](https://github.com/dhg-wei/DeCap)[⭐118]<br/>
+* [**DCASE**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 4] Weakly-supervised Automated Audio Captioning via text only training[[paper]](https://arxiv.org/abs/2309.12242)  [[code]](https://github.com/zelaki/wsac)[⭐1]<br/>
+* [**ACM**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 3] CgT-GAN: CLIP-guided Text GAN for Image Captioning[[paper]](https://arxiv.org/abs/2308.12045)  [[code]](https://github.com/Lihr747/CgtGAN)[⭐16]<br/>
 
 
 #### <br/>> **2022**
-* [**EMNLP**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] Text-Only Training for Image Captioning using Noise-Injected CLIP[[paper]](https://arxiv.org/abs/2211.00575)  [[code]](https://github.com/DavidHuji/CapDec)[⭐8]<br/>
+* [**EMNLP**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 64] Text-Only Training for Image Captioning using Noise-Injected CLIP[[paper]](https://arxiv.org/abs/2211.00575)  [[code]](https://github.com/DavidHuji/CapDec)[⭐179]<br/>
 
-* [**ICCV**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] I Can't Believe There's No Images! Learning Visual Tasks Using only Language Supervision[[paper]](https://arxiv.org/abs/2211.09778) <br/>
+* [**ICCV**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 11] I Can't Believe There's No Images! Learning Visual Tasks Using only Language Supervision[[paper]](https://arxiv.org/abs/2211.09778)[[code]](https://github.com/allenai/close)[⭐55]<br/>
 
 #### <br/>> **2021**
 
-* [**CVPR**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] LAFITE: Towards Language-Free Training for Text-to-Image Generation[[paper]](https://arxiv.org/abs/2111.13792)  [[code]](https://github.com/drboog/Lafite)[⭐8]<br/>
+* [**CVPR**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 124] LAFITE: Towards Language-Free Training for Text-to-Image Generation[[paper]](https://arxiv.org/abs/2111.13792)  [[code]](https://github.com/drboog/Lafite)[⭐180]<br/>
 
 ### language-free trainning
