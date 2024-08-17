@@ -1,7 +1,10 @@
-# awesome-text-only-training
-The project is used to store text-only training related papers
+# Awesome-UniModal-Training
+The project is used to store text-only training, language-free training for multimodal tasks related papers.
+
+Include:
+- text-only for zero-shot **image/audio/video captioning, composed image retrieval, visual storytelling**...
+- language-free for **text-to-image generation**...
 ## papers
-### Lite Version
 #### <br/>> **2024**
 
 * [**AAAI**]  Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training    [[paper]](https://papers.cool/arxiv/2401.02347)  [[code]](https://github.com/Artanic30/MacCap)<br/>
