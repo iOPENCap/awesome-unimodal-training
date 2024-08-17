@@ -5,17 +5,18 @@ Include:
 - text-only for zero-shot **image/audio/video captioning, composed image retrieval, visual storytelling**...
 - language-free for **text-to-image generation**...
 ## papers
+### text-only training
 #### <br/>> **2024**
 
-* [**AAAI**]  Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training    [[paper]](https://papers.cool/arxiv/2401.02347)  [[code]](https://github.com/Artanic30/MacCap)<br/>
+* [**AAAI**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training    [[paper]](https://papers.cool/arxiv/2401.02347)  [[code]](https://github.com/Artanic30/MacCap)[⭐8]<br/>
 
-* [**ACM**]  TOMGPT: Reliable Text-Only Training Approach for Cost-Effective Multi-modal Large Language Model[[paper]](https://dl.acm.org/doi/abs/10.1145/3654674)<br/>
+* [**ACM**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] TOMGPT: Reliable Text-Only Training Approach for Cost-Effective Multi-modal Large Language Model[[paper]](https://dl.acm.org/doi/abs/10.1145/3654674)<br/>
 
-* [**IJCV**]  Learning to Prompt with Text Only Supervision for Vision-Language Models[[paper]](https://papers.cool/arxiv/2401.02418)  [[code]](https://github.com/muzairkhattak/ProText)<br/>
+* [**IJCV**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 5]  Learning to Prompt with Text Only Supervision for Vision-Language Models[[paper]](https://papers.cool/arxiv/2401.02418)  [[code]](https://github.com/muzairkhattak/ProText)[⭐80]<br/>
 
-* [**arxiv**]  Text Data-Centric Image Captioning with Interactive Prompts[[paper]](https://papers.cool/arxiv/2403.19193)  [[code]](https://github.com/iOPENCap/Graph-reproduction/edit/main/README.md)<br/>
-* [**arxiv**]  MeaCap: Memory-Augmented Zero-shot Image Captioning[[paper]](https://www.semanticscholar.org/paper/70faf1731707ddb329877031a00d4b262902ba3c)  [[code]](https://github.com/joeyz0z/MeaCap)<br/>
-* [**arxiv**]  ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks    [[paper]](https://arxiv.org/abs/2402.17298)<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] Text Data-Centric Image Captioning with Interactive Prompts[[paper]](https://papers.cool/arxiv/2403.19193)<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 2]  MeaCap: Memory-Augmented Zero-shot Image Captioning[[paper]](https://www.semanticscholar.org/paper/70faf1731707ddb329877031a00d4b262902ba3c)  [[code]](https://github.com/joeyz0z/MeaCap)[⭐27]<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks    [[paper]](https://arxiv.org/abs/2402.17298)<br/>
 
 #### <br/>> **2023**
 * [**arxiv**]  Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](2309.09524) <br/>
@@ -37,3 +38,5 @@ Include:
 #### <br/>> **2021**
 
 * [**CVPR**]  LAFITE: Towards Language-Free Training for Text-to-Image Generation[[paper]](https://arxiv.org/abs/2111.13792)  [[code]](https://github.com/drboog/Lafite)<br/>
+
+### language-free trainning
