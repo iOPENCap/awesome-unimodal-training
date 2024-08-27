@@ -17,6 +17,7 @@ Include:
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0] Text Data-Centric Image Captioning with Interactive Prompts[[paper]](https://arxiv.org/abs/2403.19193)<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 2]  MeaCap: Memory-Augmented Zero-shot Image Captioning[[paper]](https://www.semanticscholar.org/paper/70faf1731707ddb329877031a00d4b262902ba3c)  [[code]](https://github.com/joeyz0z/MeaCap)[⭐27]<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks    [[paper]](https://arxiv.org/abs/2402.17298)<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  Unconstrained Open Vocabulary Image Classification: Zero-Shot Transfer from Text to Image via CLIP Inversion    [[paper]](https://arxiv.org/abs/2407.11211)<br/>
 
 #### <br/>> **2023**
 * [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](https://arxiv.org/abs/2309.09524) <br/>
@@ -36,6 +37,7 @@ Include:
 
 * [**ICCV**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 11] I Can't Believe There's No Images! Learning Visual Tasks Using only Language Supervision[[paper]](https://arxiv.org/abs/2211.09778)[[code]](https://github.com/allenai/close)[⭐55]<br/>
 
+* [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 28] Multimodal Knowledge Alignment with Reinforcement Learning[[paper]](https://arxiv.org/abs/2205.12630)[[code]](https://github.com/jiwanchung/esper)[⭐22]<br/>
 #### <br/>> **2021**
 
 * [**CVPR**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 124] LAFITE: Towards Language-Free Training for Text-to-Image Generation[[paper]](https://arxiv.org/abs/2111.13792)  [[code]](https://github.com/drboog/Lafite)[⭐180]<br/>
