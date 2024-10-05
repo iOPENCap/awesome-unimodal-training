@@ -18,6 +18,8 @@ Include:
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 2]  MeaCap: Memory-Augmented Zero-shot Image Captioning[[paper]](https://www.semanticscholar.org/paper/70faf1731707ddb329877031a00d4b262902ba3c)  [[code]](https://github.com/joeyz0z/MeaCap)[⭐27]<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks    [[paper]](https://arxiv.org/abs/2402.17298)<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  Unconstrained Open Vocabulary Image Classification: Zero-Shot Transfer from Text to Image via CLIP Inversion    [[paper]](https://arxiv.org/abs/2407.11211)<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  IFCap: Image-like Retrieval and Frequency-based Entity Filtering
+for Zero-shot Captioning    [[paper]](https://arxiv.org/pdf/2409.18046)<br/>
 
 #### <br/>> **2023**
 * [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](https://arxiv.org/abs/2309.09524) <br/>
