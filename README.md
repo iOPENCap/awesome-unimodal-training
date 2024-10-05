@@ -20,6 +20,7 @@ Include:
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  Unconstrained Open Vocabulary Image Classification: Zero-Shot Transfer from Text to Image via CLIP Inversion    [[paper]](https://arxiv.org/abs/2407.11211)<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  IFCap: Image-like Retrieval and Frequency-based Entity Filtering
 for Zero-shot Captioning    [[paper]](https://arxiv.org/pdf/2409.18046)   [[code]](https://github.com/boreng0817/IFCap)[⭐4]<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  From Unimodal to Multimodal: Scaling up Projectors to Align Modalities    [[paper]](https://arxiv.org/abs/2409.19425)<br/>
 
 #### <br/>> **2023**
 * [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](https://arxiv.org/abs/2309.09524) <br/>
