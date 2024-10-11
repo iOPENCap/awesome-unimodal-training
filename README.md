@@ -1,11 +1,13 @@
-# Awesome-UniModal-Training
-The project is used to store text-only training, language-free training for multimodal tasks related papers.
+# Awesome-Text-only-Training
+The project is used to store text-only training, image-free training for multimodal tasks related papers.
 
-Include:
-- text-only training for zero-shot **image/audio/video captioning, composed image retrieval, visual storytelling**...
-- language-free training for **text-to-image generation**...
+Include text-only training for:
+- zero-shot **image/audio/video captioning**
+- zero-shot **composed image retrieval**
+- **visual storytelling, visual question answer**...
+
 ## papers
-### text-only training
+
 #### <br/>> **2024**
 
 * [**AAAI**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training    [[paper]](https://arxiv.org/abs/2401.02347)  [[code]](https://github.com/Artanic30/MacCap)[⭐8]<br/>
@@ -21,7 +23,7 @@ Include:
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  IFCap: Image-like Retrieval and Frequency-based Entity Filtering
 for Zero-shot Captioning    [[paper]](https://arxiv.org/pdf/2409.18046)   [[code]](https://github.com/boreng0817/IFCap)[⭐4]<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  From Unimodal to Multimodal: Scaling up Projectors to Align Modalities    [[paper]](https://arxiv.org/abs/2409.19425)<br/>
-* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  Unleashing Text-to-Image Diusion Prior for Zero-Shot Image Captioning    [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07445.pdf)      [[code]](https://jianjieluo.github.io/SynthImgCap)[⭐0]<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  Unleashing Text-to-Image Diffusion Prior for Zero-Shot Image Captioning    [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07445.pdf)      [[code]](https://jianjieluo.github.io/SynthImgCap)[⭐0]<br/>
 
 #### <br/>> **2023**
 * [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](https://arxiv.org/abs/2309.09524) <br/>
@@ -46,4 +48,3 @@ for Zero-shot Captioning    [[paper]](https://arxiv.org/pdf/2409.18046)   [[code
 
 * [**CVPR**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 124] LAFITE: Towards Language-Free Training for Text-to-Image Generation[[paper]](https://arxiv.org/abs/2111.13792)  [[code]](https://github.com/drboog/Lafite)[⭐180]<br/>
 
-### language-free trainning
