@@ -24,6 +24,7 @@ Include text-only training for:
 for Zero-shot Captioning    [[paper]](https://arxiv.org/pdf/2409.18046)   [[code]](https://github.com/boreng0817/IFCap)[⭐4]<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  From Unimodal to Multimodal: Scaling up Projectors to Align Modalities    [[paper]](https://arxiv.org/abs/2409.19425)<br/>
 * [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  Unleashing Text-to-Image Diffusion Prior for Zero-Shot Image Captioning    [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07445.pdf)      [[code]](https://jianjieluo.github.io/SynthImgCap)[⭐0]<br/>
+* [**arxiv**] | [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 0]  DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning    [[paper]](https://arxiv.org/html/2410.09472v1)   <br/>
 
 #### <br/>> **2023**
 * [**arxiv**] [<img src="https://github.com/user-attachments/assets/c30947ec-4d5a-424d-89eb-583d8efd2801" width="15"> 1] Improved Factorized Neural Transducer Model For text-only Domain Adaptation[[paper]](https://arxiv.org/abs/2309.09524) <br/>
